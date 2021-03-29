@@ -1,4 +1,5 @@
 ### Hi there 👋
+### The attached document responds to the third Data Analysis Fundamentals project. It solves some questions and tries to find some trend refering to: What does patients fail to their medical appoitnments?
 
 <!--
 **imunozn/imunozn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
